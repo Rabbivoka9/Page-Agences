@@ -1,0 +1,153 @@
+
+.headercontainer
+{
+ background-image:url("image/header.jpg") ;
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position:center bottom ;
+ height: 600px;
+}
+.box1{
+  display:flex;
+  justify-content: space-between;
+}
+.logo{
+  align-self: flex-end;
+  margin:60px;
+  padding-right: 50px;
+  display:flex;
+  color:white;
+}
+.roulo{
+  display:flex;
+  list-style:none;
+  margin:50px;
+  padding-right:50px;
+
+}
+.roulo {
+  padding: 10px;
+  text-decoration: none;
+}
+.about{
+  text-decoration: none;
+  padding: 10px;
+  color: white;
+}
+.ser{
+  text-decoration: none;
+  padding: 10px;
+  color: white;
+}
+.proj{
+  text-decoration: none;
+  padding: 10px;
+  color: white;
+}
+.roulo{
+  border-radius:20px;
+  text-decoration: none;
+}
+.conta{
+  background-color: white;
+  border-radius:25px;
+  text-decoration: none;
+}
+.fond{
+  color:black;
+  text-transform: uppercase;
+  font-size: 15px;
+  padding: 5px;
+  text-decoration: none;
+}
+.navbar{
+  display: flex;
+}
+.banner{
+  margin:auto;
+  color:white;
+  font-size: 30px;
+  font-weight: bolder;
+  text-align:center
+  height: 600px;
+}
+.section1{
+  display: flex;
+  height: 500px;
+  flex-direction:row ;
+}
+.secparti1{
+  width: 50%;
+}
+.sec1parti2{
+  width: 50%;
+  background-image: url("image/mara.jpg");
+}
+.section2{
+  display: flex;
+  height: 500px;
+  flex-direction:row ;
+}
+.sect2parti1{
+  width: 50%;
+  background-image: url("image/el.jpg");
+
+}
+.sect2parti2
+{
+  width: 50%;
+}
+.section3{
+  display: flex;
+  height: 500px;
+  flex-direction:row ;
+}
+.sect3parti1
+{
+  width: 50%;
+  background-image: url("image/mis.jpg");
+}
+.sect3parti2{
+  width: 50%;
+  background-image: url("image/ciola.jpg");
+}
+.section1floo{
+  withe:25%;
+}
+.sectionclient{
+  text-align: center;
+  padding-top:100px;
+  padding-bottom: 40px;
+  text-transform: uppercase;
+}
+.section1-floo1{
+  display: block;
+  width:50px
+  margin:auto;
+}
+.p{
+  text-align:center;
+}
+.section2floo{
+  display:flex;
+}
+.section2-floo1{
+   height:180px;
+   width: 25%;
+  background-size: contain;
+}
+.section2-floo2{
+  height:180px;
+  width: 25%;
+}
+.section2-floo3{
+  height:180px;
+  width: 25%;
+}
+.section2-floo4{
+  height:180px;
+  width: 25%;
+}
+.section3floo{
+  background-color:#90D4C5;
+}
